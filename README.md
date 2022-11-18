@@ -29,6 +29,7 @@
     - Funções de e-mail
     - Funções de network
     - Funções de socket
+    - Funções de AJAX
   - Bibliotecas (Libraries)
     - Funções de simpleXML
     - Funções de MySQLi
